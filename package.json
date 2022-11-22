@@ -1,5 +1,5 @@
 {
-  "name": "@bloc-state/bloc_concurrency",
+  "name": "@bloc-state/bloc-concurrency",
   "version": "1.0.0",
   "description": "A repository for event transformers used with bloc.",
   "publishConfig": {
