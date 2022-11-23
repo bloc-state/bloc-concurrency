@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@bloc-state/bloc': 2.0.0-beta.4
-  '@bloc-state/state': 2.0.0-beta.5
+  '@bloc-state/state': 2.0.1
   '@commitlint/cli': ^17.2.0
   '@commitlint/config-conventional': ^17.2.0
   '@egoist/prettier-config': 1.0.0
@@ -24,7 +24,7 @@ dependencies:
   '@semantic-release/git': 10.0.1
 
 devDependencies:
-  '@bloc-state/state': 2.0.0-beta.5
+  '@bloc-state/state': 2.0.1
   '@commitlint/cli': 17.2.0
   '@commitlint/config-conventional': 17.2.0
   '@egoist/prettier-config': 1.0.0
@@ -387,10 +387,10 @@ packages:
       rxjs: 7.5.7
     dev: false
 
-  /@bloc-state/state/2.0.0-beta.5:
-    resolution: {integrity: sha512-OP0/bFYDSzZDQilWlqVmHl2PWNARl0Ytn9pSJHC+OG0dKKL1X7kTQ+LoQQeP+yztvG74rf/GXDlROU8gE06Chg==}
-    dependencies:
-      immer: 9.0.16
+  /@bloc-state/state/2.0.1:
+    resolution: {integrity: sha512-Q9t7jk318XJ4bCJabLuocsOm5RaBERgd3/czqlGjBIsYPqxMaYpLKWO3lyf7rKcB2C6/I5dIISjwh2JacqvaXg==}
+    peerDependencies:
+      immer: ^9.0.16
     dev: true
 
   /@commitlint/cli/17.2.0:
@@ -2138,10 +2138,6 @@ packages:
   /ignore/5.2.0:
     resolution: {integrity: sha512-CmxgYGiEPCLhfLnpPp1MoRmifwEIOgjcHXxOBjv7mY96c+eWScsOP9c112ZyLdWHi0FxHjI+4uVhKYp/gcdRmQ==}
     engines: {node: '>= 4'}
-    dev: true
-
-  /immer/9.0.16:
-    resolution: {integrity: sha512-qenGE7CstVm1NrHQbMh8YaSzTZTFNP3zPqr3YU0S0UY441j4bJTg4A2Hh5KAhwgaiU6ZZ1Ar6y/2f4TblnMReQ==}
     dev: true
 
   /import-fresh/3.3.0:
