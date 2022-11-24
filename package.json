@@ -1,6 +1,6 @@
 {
   "name": "@bloc-state/bloc-concurrency",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A repository for event transformers used with bloc.",
   "publishConfig": {
     "access": "public"
@@ -46,5 +46,9 @@
   },
   "lint-staged": {
     "*.{js,ts,css,md}": "prettier --write"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1"
   }
 }

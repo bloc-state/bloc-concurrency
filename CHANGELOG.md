@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/bloc-state/bloc-concurrency/compare/v1.0.2...v1.0.3) (2022-11-24)
+
+
+### Bug Fixes
+
+* **deps:** moved wrong devDependencies to dependencies ([e513764](https://github.com/bloc-state/bloc-concurrency/commit/e5137646deadebad8b48d339e66add79159baf72))
+
 ## [1.0.2](https://github.com/bloc-state/bloc-concurrency/compare/v1.0.1...v1.0.2) (2022-11-24)
 
 
