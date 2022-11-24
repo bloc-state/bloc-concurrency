@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/bloc-state/bloc-concurrency/compare/v1.0.3...v1.0.4) (2022-11-24)
+
+
+### Bug Fixes
+
+* **readme:** updated readme bump so npm readme is updated ([150231b](https://github.com/bloc-state/bloc-concurrency/commit/150231b43e4b673c40b095c3b5da82b3f7828fbe))
+
 ## [1.0.3](https://github.com/bloc-state/bloc-concurrency/compare/v1.0.2...v1.0.3) (2022-11-24)
 
 
