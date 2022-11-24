@@ -24,6 +24,7 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@bloc-state/bloc": "^2.0.0",
     "@bloc-state/state": "^2.0.1",
     "@commitlint/cli": "^17.2.0",
     "@commitlint/config-conventional": "^17.2.0",
@@ -45,10 +46,5 @@
   },
   "lint-staged": {
     "*.{js,ts,css,md}": "prettier --write"
-  },
-  "dependencies": {
-    "@bloc-state/bloc": "2.0.0-beta.4",
-    "@semantic-release/changelog": "^6.0.1",
-    "@semantic-release/git": "^10.0.1"
   }
 }
