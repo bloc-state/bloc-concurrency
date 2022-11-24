@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@bloc-state/bloc': 2.0.0-beta.4
+  '@bloc-state/bloc': 2.0.0
   '@bloc-state/state': ^2.0.1
   '@commitlint/cli': ^17.2.0
   '@commitlint/config-conventional': ^17.2.0
@@ -21,7 +21,7 @@ specifiers:
   typescript: ^4.8.4
 
 dependencies:
-  '@bloc-state/bloc': 2.0.0-beta.4_rxjs@7.5.7
+  '@bloc-state/bloc': 2.0.0_rxjs@7.5.7
   '@semantic-release/changelog': 6.0.1_semantic-release@19.0.5
   '@semantic-release/git': 10.0.1_semantic-release@19.0.5
 
@@ -380,8 +380,8 @@ packages:
     resolution: {integrity: sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==}
     dev: true
 
-  /@bloc-state/bloc/2.0.0-beta.4_rxjs@7.5.7:
-    resolution: {integrity: sha512-tKDUF7COfY7s96kYg8Qegn/DqbfnTsvTD9Lz+yFJEkFUH5Am2K1DS/zWWomWiO4E25to+9lMagfIHKedhPTW+A==}
+  /@bloc-state/bloc/2.0.0_rxjs@7.5.7:
+    resolution: {integrity: sha512-xgnetaQGkX4MNvgeIOqvwNqvC2ZuwJEV1wy5xOhfgvkljQM8c6SG+DCFL5qYYI40aeqJXlCxtStellNrPz3tvA==}
     peerDependencies:
       rxjs: ^7.5.7
     dependencies:
