@@ -1,35 +1,18 @@
-**💛 You can help the author become a full-time open-source maintainer by [sponsoring him on GitHub](https://github.com/sponsors/egoist).**
+# @bloc-state/bloc-concurrency
 
----
+![Codecov](https://badgen.net/npm/v/@bloc-state/bloc-concurrency?color=black)
+![Codecov](https://badgen.net/bundlephobia/minzip/@bloc-state/bloc-concurrency?color=black)
+![Codecov](https://badgen.net/codecov/c/github/bloc-state/bloc-concurrency?color=black)
+![Codecov](https://badgen.net/npm/license/@bloc-state/bloc-concurrency?color=black)
 
-# my-ts-lib
+## Introduction
 
-[![npm version](https://badgen.net/npm/v/my-ts-lib)](https://npm.im/my-ts-lib) [![npm downloads](https://badgen.net/npm/dm/my-ts-lib)](https://npm.im/my-ts-lib)
+EventTransformers for bloc-state
 
-## Using this template
+## Installation
 
-- Search `my-ts-lib` and replace it with your custom package name.
-- Search `egoist` and replace it with your name.
+</br>
 
-Features:
-
-- Package manager [pnpm](https://pnpm.js.org/), safe and fast
-- Release with [semantic-release](https://npm.im/semantic-release)
-- Bundle with [tsup](https://github.com/egoist/tsup)
-- Test with [jest](https://jestjs.io/)
-
-To skip CI (GitHub action), add `skip-ci` to commit message. To skip release, add `skip-release` to commit message.
-
-## Install
-
-```bash
-npm i my-ts-lib
 ```
-
-## Sponsors
-
-[![sponsors](https://sponsors-images.egoist.sh/sponsors.svg)](https://github.com/sponsors/egoist)
-
-## License
-
-MIT &copy; [EGOIST](https://github.com/sponsors/egoist)
+npm install @bloc-state/bloc-concurrency
+```
